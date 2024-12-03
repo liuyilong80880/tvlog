@@ -6,4 +6,7 @@
 |南京教科频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing02.png">|南京少儿频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing03.png">|
 |南京生活频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing04.png">|南京十八频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing05.png">|
 |南京信息频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing06.png">|南京影视频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing07.png">|
-|南京娱乐频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing08.png">
+|南京娱乐频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/nanjing08.png">|宝鸡公共频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/bjgg.png">|
+|宝鸡综合频道|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/bjzh.png">|4K花园|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/4khuayuan.png">|
+|哒啵电竞|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/dbdj.png">|精品萌宠|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/NewTV35.png">|
+|咪咕视频|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/migushipin.png">|百事通TV|<img src="https://raw.githubusercontent.com/liuyilong80880/tvlog/main/img/bestv.png">
